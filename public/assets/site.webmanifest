@@ -1,0 +1,19 @@
+{
+    "name": "Bridging Europe",
+    "short_name": "Bridging Europe",
+    "icons": [
+        {
+            "src": "/assets/logos/180w/be-blue-bg.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/logos/512w/be-blue-bg.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#003866",
+    "background_color": "#003866",
+    "display": "standalone"
+}

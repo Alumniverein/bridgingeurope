@@ -1,0 +1,70 @@
+{/* <Tile
+          title="Yoga mit Rodi"
+          desc="Eine entspannte Yoga-Session für geistige Klarheit. 🧘🏻‍♂️ ☄️"
+          timespan="10.00 - 10.30"
+          leadBy="Roderich"
+          track="track1"
+          startTime="time1000"
+          endTime="time1045"
+        ></Tile>
+        <Tile
+          title="Mitgliederversammlung des Alumnivereins 📜☕"
+          desc="Lorem Ipsum Dolor Sit Amet …"
+          timespan="11.00 - 12.00"
+          leadBy="Malte & Julian"
+          track="track1 / -1"
+          startTime="time1100"
+          endTime="time1200"
+        ></Tile>
+        <Tile
+          title="Kochen wie zuhause 👨🏻‍🍳"
+          desc="Pasta Rotterdam-Style"
+          timespan="12.00 - 13.30"
+          leadBy="Malte"
+          track="track1 / track1"
+          startTime="time1200"
+          endTime="time1330"
+        ></Tile>
+        <Tile
+          title="Lorem Ipsum Diskussion Sit Amte 🗣"
+          desc="Pasta Rotterdam-Style"
+          timespan="13.00 - 16.00"
+          leadBy="Malte"
+          track="track3 / track3"
+          startTime="time1300"
+          endTime="time1600"
+        ></Tile>
+        <Tile
+          title="Vortrag mit FR"
+          desc="Lorem Ipsum ..."
+          timespan="14.00 - 16.30"
+          leadBy="Lorem Ipsum"
+          track="track1 / track3"
+          startTime="time1400"
+          endTime="time1630"
+        ></Tile>
+        <Tile
+          title="Hauptact 🌠"
+          desc="Lorem Ipsum"
+          timespan="17.00 - 18.30"
+          leadBy="Dolor Sit"
+          track="track1 / -1"
+          startTime="time1700"
+          endTime="time1830"
+        ></Tile>
+        <Tile
+          title="Ausklang 🍹"
+          desc="Lorem Ipsum"
+          timespan="17.00 - 22.00"
+          leadBy="Dolor Sit"
+          track="track1 / -1"
+          startTime="time1830"
+          endTime="-1"
+        ></Tile> */}
+        {/* <Tile
+          title="Das Ende der Wertschöpfungskette 🌭"
+          desc="Das hat doch keinen Wert … "
+          timespan="14.30 - 16.30"
+          leadBy="Amet …"
+          style={{ gridColumn: 'track2 / -1', gridRow: 'time0900 / time1000' }}
+        ></Tile> */}
