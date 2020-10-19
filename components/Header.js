@@ -13,6 +13,15 @@ const StyledHeader = styled.div`
         grid-auto-flow: row;
         grid-template-columns: 1fr;
         
+        .tagStyle {
+            display: inline-block;
+            margin-bottom: 1em;
+            padding: .5em;
+            font-weight: 900;
+            color: ${props => props.theme.colors.primary};
+            background: ${props => props.theme.colors.offWhite};
+        }
+
         div.text-container {
             padding: 2rem;
             ul {
@@ -82,6 +91,7 @@ const Header = () => (
                     </StyledLogo>
                 </h1>
                 <h2 className="subtitle">Online wiedersehen. Freunde treffen. Vernetzen.</h2>
+                {/* <h3 className="tagStyle">→ Anmeldnung</h3> */}
                 <ul>
                     <li><span>⏰</span> 15. November 2020</li>
                     <li><span>💻 </span> via Zoom</li>
@@ -98,7 +108,7 @@ const Header = () => (
                 </div>
             </StyledLogoContainer>
         </div>
-    </StyledHeader>
+    </StyledHeader >
 );
 
 export default Header;

@@ -49,7 +49,7 @@ const Footer = () => (
                     <h4>Institut für Philosophie <br />und Kulturgeschichte</h4>
                     <ul>
                         <li>Dr. Frithjof Reinhardt</li>
-                        <li><a href="https://www.nationalstiftung.de/projekte/schulbruecken/">SchulBrücken</a></li>
+                        <li><a target="_blank" href="https://www.nationalstiftung.de/projekte/schulbruecken/">SchulBrücken</a></li>
                     </ul>
                 </StyledFooterBlock>
                 <StyledFooterBlock>
@@ -73,7 +73,7 @@ const Footer = () => (
                     <ul>
                         <li><a target="_blank" href="https://alumniverein.eu/kontakt-2/">Kontakt</a></li>
                         <li>
-                            <a href="https://alumniverein.eu/impressum/">Impressum</a>
+                            <a target="_blank" href="https://alumniverein.eu/impressum/">Impressum</a>
                         </li>
                         {/* <li>Datenschutz</li> */}
                     </ul>
