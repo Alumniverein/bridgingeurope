@@ -9,7 +9,7 @@ type: 'planned'
 displayFront: 'true'
 displayType: 'double'
 leadBy:
-  name: Frithjof & Julian
+  name: Frithjof
   picture: ''
 ---
 
