@@ -1,11 +1,11 @@
 ---
 track: track1
-title: 'Geplanter Workshop - Klima & Umwelt'
+title: 'Workshop - Klima & Umwelt'
 excerpt: 'Workshop 🌳'
 image: 'work'
 startTime: '15:00'
 endTime: '16:30'
-type: 'planned'
+type: 'calm'
 displayFront: 'true'
 displayType: 'double'
 leadBy:
