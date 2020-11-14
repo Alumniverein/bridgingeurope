@@ -9,12 +9,11 @@ type: 'formal'
 displayFront: 'true'
 displayType: 'hero'
 leadBy:
-  name: 
+  name: Alexandra & Andriyan
   picture: ''
 ---
 
-# Panel-Diskussion
+# Panel-Diskussion mit Christian Petry MdB
 
-Ihr habt das Thema gewählt und wir werden einen Gast zur Panel-Diskussion einladen. *Stay tuned*
-
-*Informationen folgen in Kürze*
+Ist Europa in der Corona Krise solidarischer geworden oder nicht? Ist die Europäische Union stark genug, um auf die Krise zu reagieren oder liegt die Verantwortung bei den Nationalstaaten? Welche Konsequenzen hat die Corona Krise für die Bildung und Völkerverständigung?
+Über diese Fragen und andere werden wir diskutieren mit <a href="https://www.bundestag.de/abgeordnete/biografien/P/petry_christian-522602">Christian Petry</a>, Mitglied im Deutschen Bundestag und im Ausschuss für die Angelegenheiten der Europäischen Union.
