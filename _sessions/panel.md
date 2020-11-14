@@ -1,7 +1,7 @@
 ---
 track: 'track1 / track3'
 title: 'Panel: Corona & Europa'
-excerpt: 'Panel-Diskussion mit einem Gast'
+excerpt: 'Panel-Diskussion mit Christian Petry MdB'
 image: 'conf'
 startTime: '17:00'
 endTime: '18:30'

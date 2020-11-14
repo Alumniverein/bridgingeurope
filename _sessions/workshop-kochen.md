@@ -9,7 +9,7 @@ type: 'active'
 displayFront: 'true'
 displayType: 'double'
 leadBy:
-  name: Kathi 👩🏻‍🍳
+  name: Kathi
   picture: ''
 ---
 
